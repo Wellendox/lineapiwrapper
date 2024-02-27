@@ -54,7 +54,7 @@ public class LineApiConfiguration : ILineApiConfiguration
     ///     The default channel access token.
     /// </value>
     public const string DefaultChannelAccessToken =
-        "ggIOv7C9Ln8ly5WE7D2nnZZfdVkx57QC5pgQQzVEq8Fxn29iH3Bi+iLv1bO/mXWeBw+pZOcsXypZhpAK7EDscsiRmssEniCoWfWqNEwbE/JKDG0X/OkJPbWpHxxLgExB4vk3j5md8u1pb8gfMGIa/QdB04t89/1O/w1cDnyilFU=";
+        "";
 
     /// <summary>
     ///     Gets the default channel secret.
@@ -62,7 +62,7 @@ public class LineApiConfiguration : ILineApiConfiguration
     /// <value>
     ///     The default channel secret.
     /// </value>
-    public const string DefaultChannelSecret = "6991eeb03da03c30dbab10ddfacbaba5";
+    public const string DefaultChannelSecret = "";
 
     /// <summary>
     ///     The maximum messages in request
